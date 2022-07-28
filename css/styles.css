@@ -279,6 +279,7 @@ section.your-active-class .landing__container::after {
     right: 0;
     height: 100vh;
     position: absolute;
+    overflow-y: scroll;
     /* opacity: 0; */
     /* overflow-x: hidden; */
    }
